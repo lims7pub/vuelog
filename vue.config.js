@@ -1,3 +1,4 @@
 module.exports = {
-	publicPath: 'vuelog'
+	publicPath: '/vuelog',
+    outputDir: 'docs'
 }
